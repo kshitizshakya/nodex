@@ -3,7 +3,8 @@
 var UserController= {
 
 	'getlist' : function (req,res){
-		res.write('inside UserController');
+		console.log("abc", UserModel.getUser());
+		res.write(UserModel.getUser());
 		res.end();
 	},
 	

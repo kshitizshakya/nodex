@@ -1,5 +1,5 @@
 {
-  "name":"Nodex",
+  "name": "Nodex",
   "version": "1.0.0",
   "description": "Custom Expressjs MVC architecture",
   "main": "app.js",
