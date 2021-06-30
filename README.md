@@ -6,7 +6,7 @@ Requirement :
 
 <b>1. Setup Nodejs</b> 
 
- * Kindly install Nodejs  
+ * install Nodejs  
   LINK : https://nodejs.org/en/download/  
   
  * To check if you have Node.js installed, run this command in your terminal:
